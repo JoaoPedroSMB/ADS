@@ -1,0 +1,15 @@
+/workspaces/ADS/Singleton/obj/Debug/net8.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ADS/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfoInputs.cache
+/workspaces/ADS/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfo.cs
+/workspaces/ADS/Singleton/obj/Debug/net8.0/Singleton.csproj.CoreCompileInputs.cache
+/workspaces/ADS/Singleton/obj/Debug/net8.0/Singleton.sourcelink.json
+/workspaces/ADS/Singleton/bin/Debug/net8.0/Singleton
+/workspaces/ADS/Singleton/bin/Debug/net8.0/Singleton.deps.json
+/workspaces/ADS/Singleton/bin/Debug/net8.0/Singleton.runtimeconfig.json
+/workspaces/ADS/Singleton/bin/Debug/net8.0/Singleton.dll
+/workspaces/ADS/Singleton/bin/Debug/net8.0/Singleton.pdb
+/workspaces/ADS/Singleton/obj/Debug/net8.0/Singleton.dll
+/workspaces/ADS/Singleton/obj/Debug/net8.0/refint/Singleton.dll
+/workspaces/ADS/Singleton/obj/Debug/net8.0/Singleton.pdb
+/workspaces/ADS/Singleton/obj/Debug/net8.0/Singleton.genruntimeconfig.cache
+/workspaces/ADS/Singleton/obj/Debug/net8.0/ref/Singleton.dll
